@@ -1,6 +1,3 @@
 # webpage-espcam
-# webpage-espcam
-# webpage-espcam
-# webpage-espcam
-# webpage-espcam
-# webpage-espcam
+![Camera Preview](./latest.jpg)
+
